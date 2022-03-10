@@ -8,5 +8,9 @@
 <body>
 	<h1>Hello World</h1>
 	<p>Lorem ipsum</p>
+	<ul>
+		<li>Freddy Michael</li>
+		<li>Kathrin Panjaitan</li>
+	</ul>
 </body>
 </html>
